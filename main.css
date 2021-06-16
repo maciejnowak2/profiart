@@ -1,15 +1,16 @@
             body {
                 font-family: 'Montserrat', sans-serif;
-                background-image: url(img/beton.jpg);
+                max-width: 1920px;
+                background-image: url(img/tlo10.jpg);
                 background-attachment: fixed;
                 background-position: center;
-                background-repeat: no-repeat;
+                background-repeat: space;
                 background-size: cover;
             }
             
             .nav-link {
                 text-transform: capitalize;
-                font-weight: 500;
+                font-weight: 600;
                 letter-spacing: .1rem;
                 font-size: 22px;
                 text-shadow: 0 1rem 1rem rgba(0, 0, 0, .15);
